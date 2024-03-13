@@ -1,6 +1,6 @@
 #####################################################
 # simu.R
-# Haolun Shi & Jiahui Feng
+# Haolun Shi
 # update Mar. 13, 2024
 # 
 # clinical trial simulation for CanTreatCOVID program
