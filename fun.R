@@ -1,6 +1,6 @@
 #######################################################
 # fun.R
-# Haolun Shi & Jiahui Feng
+# Haolun Shi
 # update 13 Mar 2024
 # 
 # support functions for the simulation study
